@@ -1,0 +1,76 @@
+body {
+    background-color: white;
+    margin: 25px;
+    padding: 5px;
+    border: 6px double green;
+    font-family: 'Oswald', sans-serif;
+    border-spacing: 10px;
+}
+
+#personalInfo {
+    text-align: center;
+}
+
+.profilePicture {
+    text-align: center;
+}
+
+#name {
+    font-size: 2rem;
+}
+
+#last-name {
+    font-size: 5rem;
+}
+
+.jobPosition {
+    font-size: 2.3rem;
+}
+
+span {
+    float: right;
+}
+
+.school {
+    font-size: 1.5rem;
+}
+
+.section1 {
+    background-color: darkmagenta;
+}
+
+.section2 {
+    background-color: cornflowerblue;
+}
+
+.section3 {
+    background-color: antiquewhite;
+}
+
+#contact {
+    text-align: center;
+}
+
+.links {
+    display: inline-block;
+    padding: 0px 18px;
+}
+
+p a {
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+
+.section1,
+.section2,
+.section3 {
+    padding: 2px 10px;
+}
+
+.subSectionTitle {
+    font-size: 2rem;
+}
+
+hr {
+    border: 3px solid black;
+}
